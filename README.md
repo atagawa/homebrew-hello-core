@@ -1,4 +1,5 @@
 Tagawa HelloWorld  
+  
 HelloWorldを表示する機能を提供します。  
 
 ## Description
@@ -8,5 +9,5 @@ HelloWorldを表示する機能を提供します。
 
 ## Usage
 1.このリポジトリをローカルにCloneする  
-2.ターミナル上でHelloWorldディレクトリまで移動し、以下のコマンドを実行する  
+2.ターミナル上でbinディレクトリまで移動し、以下のコマンドを実行する  
 	bash HelloWorld.sh  
