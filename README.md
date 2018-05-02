@@ -13,4 +13,4 @@ HelloWorldを表示する機能を提供します。
 2.プロジェクトのルートフォルダ（HelloWorld）に移動し、以下のコマンドを入力する  
     javac -d release src/com/example/HelloWorld.java  
 3.以下のコマンドを実行する  
-    ./bin/HelloWorld/  
+    ./bin/HelloWorld  
